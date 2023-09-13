@@ -22,7 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [web_action_conditionable](web_action_conditionable/) | 16.0.1.0.0 |  | web_action_conditionable
-[web_advanced_search](web_advanced_search/) | 16.0.1.0.2 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easier and more powerful searching tools
+[web_advanced_search](web_advanced_search/) | 16.0.1.0.3 | [![ivantodorovich](https://github.com/ivantodorovich.png?size=30px)](https://github.com/ivantodorovich) | Easier and more powerful searching tools
 [web_chatter_position](web_chatter_position/) | 16.0.1.0.1 |  | Add an option to change the chatter position
 [web_company_color](web_company_color/) | 16.0.1.1.0 |  | Web Company Color
 [web_dark_mode](web_dark_mode/) | 16.0.1.0.1 |  | Enabled Dark Mode for the Odoo Backend
@@ -30,6 +30,7 @@ addon | version | maintainers | summary
 [web_domain_field](web_domain_field/) | 16.0.1.0.1 |  | Use computed field as domain
 [web_environment_ribbon](web_environment_ribbon/) | 16.0.1.0.0 |  | Web Environment Ribbon
 [web_field_numeric_formatting](web_field_numeric_formatting/) | 16.0.1.0.0 |  | Allow to render float and integer fields without thousands separator
+[web_group_expand](web_group_expand/) | 16.0.1.0.0 |  | Group Expand Buttons
 [web_help](web_help/) | 16.0.1.0.0 |  | Help Framework
 [web_ir_actions_act_multi](web_ir_actions_act_multi/) | 16.0.1.0.0 |  | Enables triggering of more than one action on ActionManager
 [web_ir_actions_act_window_page](web_ir_actions_act_window_page/) | 16.0.1.0.0 |  | Allows a developer to trigger a pager to show the previous or next next record in the form view
@@ -48,9 +49,9 @@ addon | version | maintainers | summary
 [web_tree_many2one_clickable](web_tree_many2one_clickable/) | 16.0.1.0.0 |  | Open the linked resource when clicking on their name
 [web_widget_bokeh_chart](web_widget_bokeh_chart/) | 16.0.1.0.2 | [![LoisRForgeFlow](https://github.com/LoisRForgeFlow.png?size=30px)](https://github.com/LoisRForgeFlow) [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | This widget allows to display charts using Bokeh library.
 [web_widget_numeric_step](web_widget_numeric_step/) | 16.0.1.0.0 |  | Web Widget Numeric Step
-[web_widget_open_tab](web_widget_open_tab/) | 16.0.1.0.0 |  | Allow to open record from trees on new tab from tree views
+[web_widget_open_tab](web_widget_open_tab/) | 16.0.2.0.0 |  | Allow to open record from trees on new tab from tree views
 [web_widget_plotly_chart](web_widget_plotly_chart/) | 16.0.1.0.0 | [![robyf70](https://github.com/robyf70.png?size=30px)](https://github.com/robyf70) | Allow to draw plotly charts.
-[web_widget_x2many_2d_matrix](web_widget_x2many_2d_matrix/) | 16.0.1.1.0 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Show list fields as a matrix
+[web_widget_x2many_2d_matrix](web_widget_x2many_2d_matrix/) | 16.0.1.1.1 | [![ChrisOForgeFlow](https://github.com/ChrisOForgeFlow.png?size=30px)](https://github.com/ChrisOForgeFlow) | Show list fields as a matrix
 
 [//]: # (end addons)
 
